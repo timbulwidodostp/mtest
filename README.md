@@ -1,6 +1,8 @@
 # mtest
 Arellano–Bond Test of Serial Correlation Use mtest (plm) With (In) R Software
 
+https://www.youtube.com/watch?v=M2T2mwDH9RM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
